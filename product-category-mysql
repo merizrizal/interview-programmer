@@ -1,0 +1,71 @@
+INSERT INTO product_category VALUES (1, NULL, 'Indonesia', true, '2018-04-24 15:17:12', 1, '2018-04-24 15:17:12', 1);
+INSERT INTO product_category VALUES (2, NULL, 'Asia', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (3, NULL, 'Western', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (4, NULL, 'Seafood', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (5, NULL, 'Bakery & Pastry', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (6, NULL, 'Jajanan', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (7, NULL, 'Minuman & Desert', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (8, NULL, 'Others', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (9, 1, 'Sunda', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (10, 1, 'Padang', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (11, 1, 'Sate', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (12, 1, 'Palembang', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (13, 1, 'Ayam Goreng', true, '2018-04-24 15:17:13', 1, '2018-05-04 07:51:00', 5);
+INSERT INTO product_category VALUES (14, 1, 'Betawi', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (15, 1, 'Bakso', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (16, 2, 'Korea', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (18, 2, 'Chinese', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (19, 2, 'India', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (20, 2, 'Thailand', true, '2018-04-24 15:17:13', 1, '2018-04-24 15:17:13', 1);
+INSERT INTO product_category VALUES (21, 2, 'Vietnam', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (22, 2, 'Malaysia', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (23, 2, 'Timur Tengah', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (25, 3, 'Burger', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (26, 3, 'Steak', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (27, 3, 'BBQ', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (28, 3, 'Fried Chicken', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (29, 5, 'Roti', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (30, 5, 'Cake', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (31, 6, 'Martabak', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (32, 6, 'Serabi', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (33, 6, 'Otak-otak', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (34, 6, 'Comro', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (35, 6, 'Pisang Goreng', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (36, 6, 'Kue Apem', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (37, 6, 'Colenak', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (38, 6, 'Rujak', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (39, 6, 'Lotek', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (40, 7, 'Cendol', true, '2018-04-24 15:17:14', 1, '2018-04-24 15:17:14', 1);
+INSERT INTO product_category VALUES (41, 7, 'Es Teler', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (42, 7, 'Es Campur', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (43, 7, 'Sop Buah', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (44, 7, 'Kopi', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (45, 7, 'Beer', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (46, 7, 'Wine', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (48, 7, 'Ice Cream', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (49, 8, 'Sambal', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (50, 8, 'Bumbu Gado-gado', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (51, 8, 'Kerupuk', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (52, 8, 'Biji Kopi', true, '2018-04-24 15:17:15', 1, '2018-04-24 15:17:15', 1);
+INSERT INTO product_category VALUES (53, 8, 'Bandrek', true, '2018-04-24 15:17:16', 1, '2018-04-24 15:17:16', 1);
+INSERT INTO product_category VALUES (54, 8, 'Mie Instan', true, '2018-04-24 15:17:16', 1, '2018-04-24 15:17:16', 1);
+INSERT INTO product_category VALUES (55, 8, 'Bahan Makanan', true, '2018-04-24 15:17:16', 1, '2018-04-24 15:17:16', 1);
+
+1. Buatlah database dengan nama <nama diri sendiri>, tabel product_category dengan field sebagai berikut
+id : integer : increment : primary key : not null
+parent_id : integer : null
+name : varchar(64) : not null
+is_active : boolean
+created_at : datetime
+user_created : integer
+updated_at : datetime
+user_updated : integer
+
+2. Insert kan data diatas ke dalam tabel tersebut
+
+3. Buatlah query untuk menampilkan data dengan susunan field seperti di bawah ini
+id, nama_parent_category, nama_category, is_active
+
+4. Tampilkan dalam grup array yang isinya adalah parent category mempunyai child category (BONUS)
+
+
